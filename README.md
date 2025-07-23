@@ -79,7 +79,7 @@ streamlit run app.py
 
 **🙌 Acknowledgments**
 
-- 🤖 Model inspired by the need for **automated waste segregation** to support recycling and sustainability  
+- 🤖 Inspired by the goal of enhancing early diagnosis through deep learning in medical imaging 
 - 🗃️ Dataset Source: *[[(https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)]]*  
 - 📚 Special thanks to open-source contributors and the **Kaggle** community for insights and feedback  
 - 💡 Built using frameworks like **PyTorch/TensorFlow** (choose one), **Streamlit**, and **PIL**
